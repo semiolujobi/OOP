@@ -1,5 +1,15 @@
 .classpractice/
-
+BankAccountClass.py
+BankAccountProgram.py
+cellphoneclass.py
+cellphoneprogram.py
+Coin Toss.py
+CoinClass.py
+insectclass.py
+insectprogram.py
+table1.csv
+passobject.py
+__pycache__/
 
 
 
